@@ -1,0 +1,53 @@
+body{
+    background-color:#f5f5dc;
+    
+    background-color: #C4FFFA;
+    
+   
+    text-align: center;
+    
+}
+input{
+    height: 60px;
+    font-size: xx-large;
+    width: 295px;
+    text-align: center;
+    margin-bottom: 6px;
+   
+}
+button{
+    width: 50px;
+    height: 40px;
+    border-radius: 400px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: large;
+    
+    
+    margin-top: 4px;
+    margin-bottom: 4px;
+    
+}
+.cln{
+    background-color: rgb(116, 247, 203);
+}
+.yel{
+    background-color:orange;
+
+}
+.main{
+    background-color:rgb(126, 126, 126);
+    width: 297px;
+    height: 320px;
+    
+    
+    
+    
+
+}
+button:hover{
+    background-color: rgb(186, 222, 253);
+}
+button:active{
+    background-color: rgb(8, 216, 216);
+}
